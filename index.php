@@ -1,3 +1,4 @@
+<?php echo "ajuakz"?>
 <!DOCTYPE html>
 <html>
 <head>
